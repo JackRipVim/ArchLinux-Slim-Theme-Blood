@@ -1,0 +1,38 @@
+# Blood theme for SLiM
+# Orginal develper by Johannes Winkelmann
+# Redevelop by Jack Rip Vim
+ 
+# Messages (ie: shutdown)
+msg_color               #6b0909
+msg_font                Lobster:size=18:bold:dpi=75
+msg_x                   50%
+msg_y                   30%
+msg_shadow_color #6b0909
+msg_shadow_xoffset 1
+msg_shadow_yoffset 1
+
+# valid values: stretch, tile
+background_style        title
+background_color        #eedddd
+
+# Input controls
+input_panel_x           50%
+input_panel_y           50%
+input_name_x            40
+input_name_y            132
+input_font          	Lobster:size=18:dpi=75
+input_color             #6b0909
+
+# Username / password request Verdana
+username_font          	Lobster:size=18:bold:dpi=75
+username_color        	#6b0909
+username_x              30
+username_y              100
+password_x              30
+password_y              100
+username_shadow_color   #6b0909
+username_shadow_xoffset 1
+username_shadow_yoffset 1
+
+username_msg            
+password_msg           
